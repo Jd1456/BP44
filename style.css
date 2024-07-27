@@ -1,0 +1,291 @@
+body {
+    background-color: #000000;
+}
+
+.encabezado {
+    position: absolute;
+    width: 1580px;
+    height: 103px;
+    left: 0px;
+    top: 0px;
+
+    background-color: rgb(255, 107, 0);
+}
+
+.BenditoPecado44 {
+    position: absolute;
+    width: 433.33px;
+    height: 103px;
+    left: 20px;
+    top: 0px;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 103px;
+
+    color: #000000;
+}
+
+.Inicio {
+    text-decoration: none;
+
+    position: absolute;
+    width: 143.33px;
+    height: 103px;
+    left: 945px;
+    top: 0px;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 103px;
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.menu {
+    text-decoration: none;
+
+    position: absolute;
+    width: 140px;
+    height: 103px;
+    left: 1100px;
+    top: 0px;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 103px;
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.info {
+    text-decoration: none;
+
+    position: absolute;
+    width: 334px;
+    height: 103px;
+    left: 1210px;
+    top: 0px;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 103px;
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.logo {
+
+    position: absolute;
+    width: 466px;
+    height: 466px;
+    left: 540px;
+    top: 146px;
+
+    background: url(bp44-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 466PX;
+}
+
+.text1 {
+    position: absolute;
+    width: 1194px;
+    height: 206px;
+    left: 150px;
+    top: 628px;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 103px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.menutitle {
+    position: absolute;
+    width: 522px;
+    height: 296px;
+    left: 530px;
+    top: 834px;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 128px;
+    line-height: 330px;
+
+    text-align: center;
+
+    color: #E08027;
+}
+
+.entradas {
+    position: absolute;
+    width: 429px;
+    height: 165px;
+    left: 180px;
+    top: 1130px;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 165px;
+
+    text-align: center;
+
+    color: #E08027;
+}
+
+.Entrada1 {
+    position: absolute;
+    width: 722px;
+    height: 103px;
+    left: 224px;
+    top: 1328px;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 103px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    border: 1px solid #000000;
+}
+
+.DescEntrada1 {
+    position: absolute;
+    width: 1146px;
+    height: 83px;
+    left: 273px;
+    top: 1431px;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 83px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.Entrada2{
+    position: absolute;
+    width: 893px;
+    height: 103px;
+    left: 218px;
+    top: 1542px;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 103px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.DescEntrada2{
+    position: absolute;
+    width: 762px;
+    height: 83px;
+    left: 273px;
+    top: 1645px;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 83px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.Entrada3{
+    position: absolute;
+    width: 450px;
+    height: 103px;
+    left: 224px;
+    top: 1756px;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 103px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+
+.DescEntrada3{
+    position: absolute;
+    width: 435px;
+    height: 83px;
+    left: 273px;
+    top: 1859px;
+
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 83px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
